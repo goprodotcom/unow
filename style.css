@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+		margin: 0;
+		padding: 0;
+	}
+body nav {
+	height: 69px;
+	background-color: #FFC585;
+	width: 1024px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+body wrapper {
+	display: block;
+	margin: 0 auto;
+	width: 1024px;
+}
+header nav li {
+	list-style-type: none;
+	text-decoration: none;
+	display: inline;
+	float: left;
+	width: 18%;
+	padding-top: 20px;
+	font-size: 20px;
+	color: #F0E4D3;
+	text-shadow: 3px 1px 18px #754816;
+}
+#est {
+	width: 500px;
+	margin: auto;
+	text-align: center;
+	font-family: "Carlito";
+	color: #D07922;
+	font-size: 25px;
+}
+#hand {
+	text-align: center;
+}
